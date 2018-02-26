@@ -679,7 +679,7 @@ pushMatrix();
       text("GANADOR",230, 250);
       textSize(90);
       fill(255);
-      text("JUGADOR 1",170,380);
+      text("JUGADOR 2",170,380);
       
       fill(255);
       textSize(25);
@@ -702,7 +702,7 @@ pushMatrix();
       text("GANADOR",230, 250);
       textSize(90);
       fill(255);
-      text("JUGADOR 2",170,380);
+      text("JUGADOR 1",170,380);
       
       fill(255);
       textSize(25);
