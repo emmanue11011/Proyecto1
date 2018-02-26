@@ -516,7 +516,7 @@ void pantallaUno()
     
     textSize(15);
     fill(255);
-    text("Haz CLICK en la letra K para continuar.",15,580);    
+    text("Haz CLICK en la pantalla y luego en la letra K para continuar.",15,580);    
     popMatrix();
     
 }
